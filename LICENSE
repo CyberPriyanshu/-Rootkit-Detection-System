@@ -1,0 +1,73 @@
+MIT License (Educational Use Only)
+
+Copyright (c) 2025 Rootkit Detection System
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction for EDUCATIONAL AND RESEARCH PURPOSES ONLY,
+including without limitation the rights to use, copy, modify, merge, publish,
+distribute, sublicense, and/or sell copies of the Software, and to permit
+persons to whom the Software is furnished to do so, subject to the following
+conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+ADDITIONAL TERMS FOR EDUCATIONAL USE:
+
+1. AUTHORIZED USE ONLY: This software may only be used on computer systems
+   that you own or have explicit written permission to test.
+
+2. NO MALICIOUS USE: This software must not be used for any malicious,
+   harmful, or unauthorized purposes.
+
+3. ETHICAL COMPLIANCE: Users must comply with all applicable laws and
+   regulations regarding computer security and authorized access.
+
+4. NO WARRANTY: This software is provided "as-is" for educational purposes.
+   The authors make no warranties about its effectiveness, accuracy, or
+   suitability for any purpose.
+
+5. LIABILITY LIMITATION: In no event shall the authors or copyright holders
+   be liable for any claim, damages, or other liability arising from the
+   use or misuse of this software.
+
+6. RESPONSIBLE DISCLOSURE: Any security vulnerabilities discovered through
+   the use of this software should be reported responsibly to the affected
+   parties.
+
+7. ATTRIBUTION: When using this software for educational demonstrations or
+   portfolios, appropriate attribution should be maintained.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+---
+
+IMPORTANT NOTICES:
+
+⚠️  EDUCATIONAL PURPOSE: This tool is designed for learning defensive security
+    concepts and demonstrating cybersecurity skills to potential employers.
+
+⚠️  AUTHORIZED SYSTEMS ONLY: Only use on systems you own or have written
+    permission to test.
+
+⚠️  NOT FOR OFFENSIVE USE: This is a detection tool, not an attack tool.
+
+⚠️  LEGAL RESPONSIBILITY: Users are fully responsible for ensuring their use
+    of this software complies with all applicable laws and regulations.
+
+⚠️  NO SUPPORT FOR MALICIOUS ACTIVITY: The creators will not support any
+    attempts to use this software for unauthorized or malicious purposes.
+
+---
+
+For more detailed terms, see TERMS_AND_CONDITIONS.md
+
+For questions about appropriate use, consult a cybersecurity professional
+or legal advisor.

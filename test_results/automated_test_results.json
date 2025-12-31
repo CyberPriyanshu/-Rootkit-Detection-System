@@ -1,0 +1,45 @@
+{
+  "start_time": "2025-12-31T11:14:28.217757",
+  "tests": [
+    {
+      "name": "Initial Clean Scan",
+      "status": "PASSED",
+      "hidden_count": 0
+    },
+    {
+      "name": "Baseline Creation",
+      "status": "PASSED"
+    },
+    {
+      "name": "Test Process Creation",
+      "status": "PASSED",
+      "pid": 13340
+    },
+    {
+      "name": "Scan With Test Process",
+      "status": "PASSED",
+      "processes_found": 273,
+      "hidden_processes": 0
+    },
+    {
+      "name": "Baseline Comparison",
+      "status": "PASSED",
+      "new_processes": 0
+    },
+    {
+      "name": "Full Scan + Report",
+      "status": "PASSED",
+      "reports": {
+        "json": "reports\\security_report_20251231_111448.json",
+        "txt": "reports\\security_report_20251231_111448.txt"
+      }
+    },
+    {
+      "name": "Cleanup",
+      "status": "PASSED"
+    }
+  ],
+  "end_time": "2025-12-31T11:14:49.518901",
+  "total_tests": 7,
+  "passed": 7
+}

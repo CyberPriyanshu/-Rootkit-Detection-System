@@ -1,0 +1,14 @@
+# Rootkit Detection System - Dependencies
+
+# System and process monitoring
+psutil==5.9.6
+
+# Windows Management Instrumentation
+pywin32==306
+wmi==1.5.1
+
+# Logging and reporting
+colorama==0.4.6
+
+# Data handling
+python-dateutil==2.8.2
